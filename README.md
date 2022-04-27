@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @R-Rothrock
 - 👀 I’m interested in (some) things in Python.
 - 🌱 I’m currently learning Python regarding (some) things.
-- 💞️ I’m looking to collaborate on Django and (some) other Python things
+- 💞️ I’m looking to collaborate on Django, which I am learning at the moment, and (some) other Python things
 - 📫 How to reach me shouldn't concern you much, if at all.
 
 <!---
