@@ -9,7 +9,6 @@
 and I'm starting as a bug bounty hunter.
 
 **I can be contacted at:**
-
 - _roan.rothrock@bugcrowdninja.com_ | bugcrowd
 - _roan.rothrock@hotmail.com_ | Email
 <!---
