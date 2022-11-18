@@ -1,9 +1,9 @@
 # Roan Rothrock
 **I program:**
 - Python
-- Bash
-- C
-- and C# (kinda)
+- Bash (give or take)
+- C (enough)
+- and C# (hardly)
 
 
 and I'm starting as a bug bounty hunter.
