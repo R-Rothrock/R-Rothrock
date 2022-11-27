@@ -8,7 +8,7 @@
 - Java
 
 I'm currently preparing for the PCAP certification in Python,
-and will be attempting more for cybersecurity, bash, and C
+and will be attempting more certifications for cybersecurity, bash, and C
 within the next year. 
 
 **I can be contacted at:**
