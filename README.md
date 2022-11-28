@@ -1,11 +1,10 @@
 # Roan Rothrock
 **I program:**
-- Python
-- Bash
-- C
+- Python (I'd give myself about a 9)
+- Bash (only like a 6)
 
 **I am learning:**
-- Java
+- C/C++ (maybe a 5...)
 
 I'm currently preparing for the PCAP certification in Python,
 and will be attempting more certifications for cybersecurity, bash, and C
