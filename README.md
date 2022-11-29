@@ -7,7 +7,7 @@
 - C/C++ (maybe a 5...)
 
 **Certifications**
-- working in it. 
+- working on it. 
 
 **I can be contacted at:**
 - _roan.rothrock@bugcrowdninja.com_: BugCrowd
