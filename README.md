@@ -1,10 +1,10 @@
 # Roan Rothrock
 **I program:**
-- Python (I'd give myself about a 9)
-- Bash (only like a 6)
+- Python
+- Bash (to only an applicable point)
 
 **I am learning:**
-- C/C++ (maybe a 5...)
+- C/C++
 
 **Certifications**
 - working on it. 
