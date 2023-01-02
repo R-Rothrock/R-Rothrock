@@ -1,4 +1,6 @@
 # Roan Rothrock
+Im a self trained programmer out of middle Tennessee, interested in InfoSec.
+
 **I program:**
 - Python
 - Bash (to only an applicable point)
@@ -7,7 +9,7 @@
 - C/C++
 
 **Certifications**
-- working on it. 
+- preparing for the PCAP certification.
 
 **I can be contacted at:**
 - _roan.rothrock@bugcrowdninja.com_: BugCrowd
