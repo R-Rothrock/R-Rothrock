@@ -3,7 +3,7 @@ Im a self trained programmer out of middle Tennessee, interested in InfoSec.
 
 **I program:**
 - Python
-- Bash (to only an applicable point)
+- Bash
 
 **I am learning:**
 - C/C++
