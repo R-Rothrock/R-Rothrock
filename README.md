@@ -4,9 +4,10 @@ Im a self trained programmer out of middle Tennessee, interested in InfoSec.
 **I program:**
 - Python
 - Bash
+- C
 
 **I am learning:**
-- C/C++
+- Rust
 
 **Certifications**
 - preparing for the PCAP certification.
