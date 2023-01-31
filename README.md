@@ -1,5 +1,6 @@
 # Roan Rothrock
 Im a self trained programmer out of middle Tennessee, interested in InfoSec.
+I'm currently learning _Rust_ and preparing for the _PCAP_ cert in Python.
 
 **I program:**
 - Python
@@ -8,9 +9,8 @@ Im a self trained programmer out of middle Tennessee, interested in InfoSec.
 **I _can_ program:**
 - Bash (sort of)
 
-I'm currently learning _Rust_ and preparing for the `PCAP` cert in Python.
-
 **Certifications**
+
 None yet.
 
 **I can be contacted at:**
