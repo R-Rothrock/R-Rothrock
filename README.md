@@ -1,5 +1,4 @@
 # Roan Rothrock
-![site traffic](https://komarev.com/ghpvc/?username=R-Rothrock)
 
 Im a self trained programmer out of middle Tennessee, interested in InfoSec.
 
@@ -19,7 +18,7 @@ I love using the Linux command-line, either Debian-based or Arch-based (I use Ka
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux Penguin" width=40 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width=40 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width=40 height=40/>&nbsp;
-  <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width=50 height=40 />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian Linux" width=50 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width=40 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="Sqlite" width=40 height=40/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width=40 height=40 />&nbsp;
