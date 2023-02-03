@@ -1,6 +1,6 @@
 # Roan Rothrock
 
-Im a self trained programmer out of middle Tennessee, interested in InfoSec.
+Im a self trained programmer out of middle Tennessee, delving into information security.
 
 # About me
 
@@ -25,15 +25,10 @@ I love using the Linux command-line, either Debian-based or Arch-based (I use Ka
 
 </div>
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Rothrock)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Rothrock&layout=compact)
 
 ---
-## Other Skills
-- Fluent in English, can communicate online in Spanish.
-- I can use MS Word, Excel, and Powerpoint.
-
-**I can be contacted at:**
-- _roan.rothrock@bugcrowdninja.com_: BugCrowd
+## Contact
 - _roan.rothrock@hotmail.com_: Email
 - _[@R-Rothrock](https://github.com/R-Rothrock)_: GitHub 
 - _[@R-Rothrock](https://www.codecademy.com/profiles/R-Rothrock)_: Codecademy
