@@ -1,8 +1,8 @@
 # Roan Rothrock
 
-Im a self trained programmer out of middle Tennessee, delving into information security.
+Im a self trained programmer out of middle Tennessee, delving into information security. I speak English, and can communicate online in Spanish.
 
-# About me
+# About Me
 
 I'm currently preparing for the _PCAP_ certification in Python, and intend to
 learn the _Rust_ programming language in the future.
@@ -14,17 +14,17 @@ I love using the Linux command-line, either Debian-based or Arch-based (I use Ka
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width=40 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyer" width=40 height=40 />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian Linux" width=50 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width=40 height=40 />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux Penguin" width=40 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width=40 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width=40 height=40/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian Linux" width=50 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width=40 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="Sqlite" width=40 height=40/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width=40 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width=40 height=40 />&nbsp;
-
 </div>
 
+### Top Languages
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Rothrock&layout=compact)
 
 ---
