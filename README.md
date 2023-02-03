@@ -1,17 +1,11 @@
 # Roan Rothrock
 Im a self trained programmer out of middle Tennessee, interested in InfoSec.
 I'm currently learning _Rust_ and preparing for the _PCAP_ cert in Python.
+I prefer the Linux (Debian is best) terminal to any interface provided, and
+I can program Python, C, and bash, but I don't like bash scripting any more
+than I need.
 
-**I program:**
-- Python
-- C
-
-**I _can_ program:**
-- Bash (sort of)
-
-**Certifications**
-
-None yet.
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Rothrock)
 
 **I can be contacted at:**
 - _roan.rothrock@bugcrowdninja.com_: BugCrowd
