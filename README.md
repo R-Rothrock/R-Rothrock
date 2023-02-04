@@ -7,7 +7,7 @@ Im a self trained programmer out of middle Tennessee, delving into information s
 I'm currently preparing for the _PCAP_ certification in Python, and intend to
 learn the _Rust_ programming language in the future.
 
-I love using the Linux command-line, either Debian-based or Arch-based (I use Kali, but have enjoyed Manjaro in the past.) I usually program Python, but understand and use C as Python's cutting edge.
+I love using the Linux command-line, either Debian-based or Arch-based (I use Kali, but have enjoyed Manjaro in the past.) I usually program Python, but I use C/C++ when Python just seems too bulky.
 
 ---
 ## Technologies
@@ -16,6 +16,7 @@ I love using the Linux command-line, either Debian-based or Arch-based (I use Ka
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyer" width=40 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian Linux" width=50 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width=40 height=40 />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width=40 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width=40 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width=40 height=40/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width=40 height=40 />&nbsp;
