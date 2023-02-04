@@ -1,6 +1,6 @@
 # Roan Rothrock
 
-Im a self trained programmer out of middle Tennessee, delving into information security. I speak English, and can communicate online in Spanish.
+Im a self trained programmer out of middle Tennessee, delving into information security.
 
 # About Me
 
