@@ -26,7 +26,7 @@ I love using the Linux command-line, either Debian-based or Arch-based (I use Ka
 </div>
 
 ### Top Languages
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Rothrock&layout=compact)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Rothrock&layout=compact&hide=makefile)
 
 ---
 ## Contact
