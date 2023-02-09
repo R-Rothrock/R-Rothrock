@@ -26,10 +26,10 @@ I love using the Linux command-line, either Debian-based or Arch-based (I use Ka
 </div>
 
 ## Top Languages
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Rothrock&layout=compact&hide=makefile)
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R-Rothrock&theme=react&line_height=40&hide=makefile&layout=compact"/> </a>
 
 ## Stats
-![my stats](https://github-readme-stats.vercel.app/api?username=R-Rothrock&show_icons=true&theme=dark)
+![my stats](https://github-readme-stats-sigma-five.vercel.app/api?username=R-Rothrock&show_icons=true&theme=dark)
 
 ---
 ## Contact
