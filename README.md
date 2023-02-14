@@ -1,6 +1,6 @@
 # Roan Rothrock
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+developer;Linux+enthusiast;C%2B%2B+developer;Starting+security+researcher)
+![Typing SVG](https://github.com/R-Rothrock/R-Rothrock/blob/main/README_animation.svg)
 
 Self-trained programmer out of middle Tennessee.
 
