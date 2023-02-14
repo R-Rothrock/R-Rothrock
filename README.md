@@ -1,13 +1,15 @@
 # Roan Rothrock
 
-Im a self trained programmer out of middle Tennessee, delving into information security.
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+developer;Linux+enthusiast;C%2B%2B+developer;Starting+security+researcher)
+
+Self-trained programmer out of middle Tennessee.
 
 # About Me
 
 I'm currently preparing for the _PCAP_ certification in Python, and intend to
 learn the _Rust_ programming language in the future.
 
-I love using the Linux command-line, either Debian-based or Arch-based (I use Kali, but have enjoyed Manjaro in the past.) I usually program Python, but I use C/C++ when Python just seems too bulky.
+I love using the Linux command-line, either Debian-based or Arch-based (I use Kali, but have enjoyed Manjaro in the past.) I usually program Python, but I use C/C++ when Python is inadequate and/or unnecessary.
 
 ---
 ## Technologies
