@@ -6,7 +6,7 @@ Self-trained programmer out of middle Tennessee.
 
 # About Me
 
-I enjoy using the command line to most interfaces (either Debian or Arch.) I fidget with different Unix-based distros, but I usually use
+I enjoy using the command line to most interfaces (either Debian or Arch). I fidget with different Unix-based distros, but I usually use
 Debian-based distros and Arch-based distros.
 
 **My current computer:** HP laptop with Windows 11 (130GB), Kali Linux (60GB), and Arch Linux (30GB). 16GB RAM, 220-something gigabyte SSD.
