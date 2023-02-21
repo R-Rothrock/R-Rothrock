@@ -30,7 +30,7 @@ I usually program _Python_ (I know it best) but I use _C++_ when _Python_ is unn
 </div>
 
 ## Top Languages
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R-Rothrock&theme=react&line_height=40&hide=makefile,javascript&layout=compact"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R-Rothrock&theme=react&line_height=40&hide=makefile,javascript,html&layout=compact"/> </a>
 
 ## Stats
 ![my stats](https://github-readme-stats-sigma-five.vercel.app/api?username=R-Rothrock&show_icons=true&theme=dark)
