@@ -39,11 +39,11 @@ currently a freshman in highschool.
 
 ## Top Languages
 
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R-Rothrock&theme=react&line_height=40&hide=makefile,javascript,html&layout=compact"/>
+![Languages Used](https://github.com/R-Rothrock/R-Rothrock/blob/main/languages_used.svg)
 
 ## Stats
 
-![my stats](https://github-readme-stats-sigma-five.vercel.app/api?username=R-Rothrock&show_icons=true&theme=dark)
+![My Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=R-Rothrock&show_icons=true&theme=dark)
 
 ---
 
