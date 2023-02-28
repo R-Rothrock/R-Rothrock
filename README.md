@@ -1,6 +1,6 @@
 # Roan Rothrock
 
-![Typing SVG](https://github.com/R-Rothrock/R-Rothrock/blob/main/README_animation.svg)
+![Typing SVG](https://github.com/R-Rothrock/R-Rothrock/blob/main/typing_animation.svg)
 
 Self-trained programmer out of middle Tennessee.
 
