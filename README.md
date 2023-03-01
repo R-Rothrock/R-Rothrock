@@ -21,8 +21,6 @@ currently a freshman in highschool.
 
 ---
 
-## Technologies
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width=40 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian Linux" width=50 height=40 />&nbsp;
@@ -37,11 +35,11 @@ currently a freshman in highschool.
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width=40 height=40 />&nbsp;
 </div>
 
-## Top Languages
+<br>
 
 ![Languages Used](https://github.com/R-Rothrock/R-Rothrock/blob/main/languages_used.svg)
 
-## Stats
+<br>
 
 ![My Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=R-Rothrock&show_icons=true&theme=dark)
 
