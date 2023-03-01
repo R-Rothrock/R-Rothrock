@@ -31,7 +31,7 @@ currently a freshman in highschool.
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width=40 height=40/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width=40 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="Sqlite" width=40 height=40/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width=40 height=40 />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width=40 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width=40 height=40 />&nbsp;
 </div>
 
