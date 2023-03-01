@@ -8,6 +8,8 @@ update_language_api(){
 
   git init
 
+  git push
+
   rm -f "languages_used.svg"
 
   curl "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R-Rothrock&theme=react&line_height=40&hide=makefile,javascript,html&layout=compact" > languages_used.svg
