@@ -15,8 +15,7 @@ and Arch Linux (30GB). 16GB RAM, 220-something gigabyte SSD.
 
 I usually program _Python_ (I know it best) but I use _C++_ when _Python_ is
 unnecessary and I use shell scripts for automation projects every now and then.
-I also know a decent amount of _Sqlite_, but never use it. I'm learning the
-_Rust_ programming language due to it's modernity and package manager. I'm
+I also know a decent amount of _Sqlite_, but never use it. I'm
 currently a freshman in highschool.
 
 ---
