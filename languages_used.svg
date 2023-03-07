@@ -65,7 +65,7 @@
             data-testid="lang-progress"
             x="0" 
             y="0"
-            width="162.61" 
+            width="163.75" 
             height="8"
             fill="#3572A5"
           />
@@ -73,9 +73,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="162.61" 
+            x="163.75" 
             y="0"
-            width="55.08" 
+            width="54.62" 
             height="8"
             fill="#f34b7d"
           />
@@ -83,9 +83,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="217.69" 
+            x="218.37" 
             y="0"
-            width="53.32" 
+            width="52.88" 
             height="8"
             fill="#DA5B0B"
           />
@@ -93,9 +93,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="271.01" 
+            x="271.25" 
             y="0"
-            width="28.99" 
+            width="28.75" 
             height="8"
             fill="#89e051"
           />
@@ -104,28 +104,28 @@
     <g transform="translate(0, 25)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 54.20%
+        Python 54.58%
       </text>
     </g>
   
     <g transform="translate(150, 25)">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 18.36%
+        C++ 18.21%
       </text>
     </g>
   
     <g transform="translate(0, 50)">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 17.77%
+        Jupyter Notebook 17.63%
       </text>
     </g>
   
     <g transform="translate(150, 50)">
       <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 9.66%
+        Shell 9.58%
       </text>
     </g>
   
