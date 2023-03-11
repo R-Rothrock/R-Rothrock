@@ -11,6 +11,8 @@ update_stats_api_github(){
 
   git add "activity_stats.svg"
   git commit -m "Updated \`activity_stats.svg\`"
+
+  git push
 }
 
 update_stats_api_github
