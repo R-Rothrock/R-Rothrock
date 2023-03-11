@@ -5,18 +5,16 @@
 # not the one whose paying for the hosting /:
 
 update_language_api(){
-
   git init
+  git pull
 
-  git push
+  rm -f "language_stats.svg"
 
-  rm -f "languages_used.svg"
+  curl "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R-Rothrock&theme=react&line_height=40&hide=makefile,javascript,html&layout=compact" > "language_stats.svg"
 
-  curl "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R-Rothrock&theme=react&line_height=40&hide=makefile,javascript,html&layout=compact" > languages_used.svg
+  git add "language_stats.svg"
 
-  git add *
-
-  git commit -m "Update \`README.md\`"
+  git commit -m "Update \`language_stats.svg\`"
   git push
 }
 

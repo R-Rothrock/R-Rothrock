@@ -38,7 +38,7 @@ currently a freshman in highschool.
 
 <br>
 
-![My Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=R-Rothrock&show_icons=true&theme=dark)
+![My Stats](https://github.com/R-Rothrock/R-Rothrock/blob/main/activity_stats.svg)
 
 ---
 
