@@ -1,8 +1,8 @@
 
       <svg
         width="350"
-        height="150"
-        viewBox="0 0 350 150"
+        height="170"
+        viewBox="0 0 350 170"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
       >
@@ -65,7 +65,7 @@
             data-testid="lang-progress"
             x="0" 
             y="0"
-            width="163.38" 
+            width="153.05" 
             height="8"
             fill="#3572A5"
           />
@@ -73,9 +73,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="163.38" 
+            x="153.05" 
             y="0"
-            width="54.50" 
+            width="50.84" 
             height="8"
             fill="#f34b7d"
           />
@@ -83,9 +83,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="217.88" 
+            x="203.89000000000001" 
             y="0"
-            width="52.76" 
+            width="49.22" 
             height="8"
             fill="#DA5B0B"
           />
@@ -93,39 +93,56 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="270.64" 
+            x="253.11" 
             y="0"
-            width="29.37" 
+            width="27.40" 
             height="8"
             fill="#89e051"
+          />
+        
+          <rect
+            mask="url(#rect-mask)" 
+            data-testid="lang-progress"
+            x="280.51" 
+            y="0"
+            width="19.50" 
+            height="8"
+            fill="#dea584"
           />
         
       
     <g transform="translate(0, 25)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 54.46%
+        Python 51.02%
       </text>
     </g>
   
     <g transform="translate(150, 25)">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 18.17%
+        C++ 16.95%
       </text>
     </g>
   
     <g transform="translate(0, 50)">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 17.59%
+        Jupyter Notebook 16.41%
       </text>
     </g>
   
     <g transform="translate(150, 50)">
       <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 9.79%
+        Shell 9.13%
+      </text>
+    </g>
+  
+    <g transform="translate(0, 75)">
+      <circle cx="5" cy="6" r="5" fill="#dea584" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Rust 6.50%
       </text>
     </g>
   
