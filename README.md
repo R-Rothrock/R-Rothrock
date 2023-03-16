@@ -34,7 +34,7 @@ currently a freshman in highschool.
 
 <br>
 
-![Languages Used](https://github.com/R-Rothrock/R-Rothrock/blob/main/languages_used.svg)
+![Languages Used](https://github.com/R-Rothrock/R-Rothrock/blob/main/language_stats.svg)
 
 <br>
 
