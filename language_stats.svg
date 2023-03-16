@@ -65,7 +65,7 @@
             data-testid="lang-progress"
             x="0" 
             y="0"
-            width="153.05" 
+            width="153.08" 
             height="8"
             fill="#3572A5"
           />
@@ -73,9 +73,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="153.05" 
+            x="153.08" 
             y="0"
-            width="50.84" 
+            width="50.86" 
             height="8"
             fill="#f34b7d"
           />
@@ -83,9 +83,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="203.89000000000001" 
+            x="203.94" 
             y="0"
-            width="49.22" 
+            width="49.23" 
             height="8"
             fill="#DA5B0B"
           />
@@ -93,7 +93,7 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="253.11" 
+            x="253.17" 
             y="0"
             width="27.40" 
             height="8"
@@ -103,9 +103,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="280.51" 
+            x="280.57" 
             y="0"
-            width="19.50" 
+            width="19.43" 
             height="8"
             fill="#dea584"
           />
@@ -114,7 +114,7 @@
     <g transform="translate(0, 25)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 51.02%
+        Python 51.03%
       </text>
     </g>
   
@@ -142,7 +142,7 @@
     <g transform="translate(0, 75)">
       <circle cx="5" cy="6" r="5" fill="#dea584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust 6.50%
+        Rust 6.48%
       </text>
     </g>
   
