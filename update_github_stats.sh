@@ -10,7 +10,7 @@ update_apis_github(){
   git add "activity_stats.svg"
 
   rm -f "language_stats.svg"
-  curl "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R-Rothrock&theme=react&line_height=40&hide=makefile,javascript,html&layout=compact" > "language_stats.svg"
+  curl "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R-Rothrock&theme=react&line_height=40&hide=makefile,javascript,html,rust" > "language_stats.svg"
   git add "language_stats.svg"
 
   git commit -m "Updated \`activity_stats.svg\`"
