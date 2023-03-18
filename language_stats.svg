@@ -1,8 +1,8 @@
 
       <svg
-        width="350"
-        height="170"
-        viewBox="0 0 350 170"
+        width="300"
+        height="245"
+        viewBox="0 0 300 245"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
       >
@@ -28,7 +28,7 @@
           rx="4.5"
           height="99%"
           stroke="#E4E2E2"
-          width="349"
+          width="299"
           fill="#20232a"
           stroke-opacity="1"
         />
@@ -55,98 +55,63 @@
         >
           
     <svg data-testid="lang-items" x="25">
-      
-      <mask id="rect-mask">
-        <rect x="0" y="0" width="300" height="8" fill="white" rx="5" />
-      </mask>
-      
-          <rect
-            mask="url(#rect-mask)" 
-            data-testid="lang-progress"
-            x="0" 
-            y="0"
-            width="153.08" 
-            height="8"
-            fill="#3572A5"
-          />
-        
-          <rect
-            mask="url(#rect-mask)" 
-            data-testid="lang-progress"
-            x="153.08" 
-            y="0"
-            width="50.86" 
-            height="8"
-            fill="#f34b7d"
-          />
-        
-          <rect
-            mask="url(#rect-mask)" 
-            data-testid="lang-progress"
-            x="203.94" 
-            y="0"
-            width="49.23" 
-            height="8"
-            fill="#DA5B0B"
-          />
-        
-          <rect
-            mask="url(#rect-mask)" 
-            data-testid="lang-progress"
-            x="253.17" 
-            y="0"
-            width="27.40" 
-            height="8"
-            fill="#89e051"
-          />
-        
-          <rect
-            mask="url(#rect-mask)" 
-            data-testid="lang-progress"
-            x="280.57" 
-            y="0"
-            width="19.43" 
-            height="8"
-            fill="#dea584"
-          />
-        
-      
-    <g transform="translate(0, 25)">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 51.03%
-      </text>
-    </g>
-  
-    <g transform="translate(150, 25)">
-      <circle cx="5" cy="6" r="5" fill="#f34b7d" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 16.95%
-      </text>
-    </g>
-  
-    <g transform="translate(0, 50)">
-      <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 16.41%
-      </text>
-    </g>
-  
-    <g transform="translate(150, 50)">
-      <circle cx="5" cy="6" r="5" fill="#89e051" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 9.13%
-      </text>
-    </g>
-  
-    <g transform="translate(0, 75)">
-      <circle cx="5" cy="6" r="5" fill="#dea584" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust 6.48%
-      </text>
-    </g>
-  
-    
+      <g transform="translate(0, 0)">
+    <text data-testid="lang-name" x="2" y="15" class="lang-name">Python</text>
+    <text x="215" y="34" class="lang-name">54.77%</text>
+    <svg width="205">
+      <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd"></rect>
+      <rect
+        height="8"
+        fill="#3572A5"
+        rx="5" ry="5" x="0" y="25"
+        data-testid="lang-progress"
+        width="54.77%"
+      >
+      </rect>
+    </svg>
+  </g><g transform="translate(0, 40)">
+    <text data-testid="lang-name" x="2" y="15" class="lang-name">C++</text>
+    <text x="215" y="34" class="lang-name">18.20%</text>
+    <svg width="205">
+      <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd"></rect>
+      <rect
+        height="8"
+        fill="#f34b7d"
+        rx="5" ry="5" x="0" y="25"
+        data-testid="lang-progress"
+        width="18.2%"
+      >
+      </rect>
+    </svg>
+  </g><g transform="translate(0, 80)">
+    <text data-testid="lang-name" x="2" y="15" class="lang-name">Jupyter Notebook</text>
+    <text x="215" y="34" class="lang-name">17.61%</text>
+    <svg width="205">
+      <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd"></rect>
+      <rect
+        height="8"
+        fill="#DA5B0B"
+        rx="5" ry="5" x="0" y="25"
+        data-testid="lang-progress"
+        width="17.61%"
+      >
+      </rect>
+    </svg>
+  </g><g transform="translate(0, 120)">
+    <text data-testid="lang-name" x="2" y="15" class="lang-name">Shell</text>
+    <text x="215" y="34" class="lang-name">9.42%</text>
+    <svg width="205">
+      <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd"></rect>
+      <rect
+        height="8"
+        fill="#89e051"
+        rx="5" ry="5" x="0" y="25"
+        data-testid="lang-progress"
+        width="9.42%"
+      >
+      </rect>
+    </svg>
+  </g>
     </svg>
   
         </g>
