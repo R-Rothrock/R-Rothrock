@@ -6,12 +6,8 @@ Self-trained programmer out of middle Tennessee.
 
 # About Me
 
-I enjoy using the command line to most interfaces (either Debian or Arch, but
-I'll use any command line except for DOS) I know Debian-based Linux the best,
+I enjoy using the command line to most interfaces (Bash, Zshell, but I'll use anything except maybe Windows DOS). I know Debian-based Linux the best,
 but I like Arch-based distros as well.
-
-**My current computer:** HP laptop with Windows 11 (130GB), Kali Linux (60GB),
-and Arch Linux (30GB). 16GB RAM, 220-something gigabyte SSD.
 
 I usually program _Python_ (I know it best) but I use _C++_ when _Python_ is
 unnecessary and I use shell scripts for automation projects every now and then.
@@ -24,11 +20,13 @@ currently a freshman in highschool.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width=40 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian Linux" width=50 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width=40 height=40 />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width=40 height=40 />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width=40 height=40 />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width=40 height=40 />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width=40 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyer" width=40 height=40 />&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width=40 height=40/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width=40 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="Sqlite" width=40 height=40/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width=40 height=40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width=40 height=40 />&nbsp;
 </div>
 
