@@ -5,7 +5,7 @@ update_apis_github(){
   git pull
 
   rm "activity_stats.svg"
-  curl "https://github-readme-stats.vercel.app/api?username=R-Rothrock&show_icons=true&theme=dark" > "activity_stats.svg"
+  curl "https://github-readme-stats.vercel.app/api?username=R-Rothrock&show_icons=true&theme=react" > "activity_stats.svg"
   git add "activity_stats.svg"
 
   rm "language_stats.svg"
