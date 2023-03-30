@@ -8,7 +8,7 @@
     
                 <path id='path0'>
                             <!-- Single line -->
-                                <animate id='d0' attributeName='d' begin='0s;d3.end'
+                                <animate id='d0' attributeName='d' begin='0s;d2.end'
                     dur='5000ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
                     </path>
@@ -42,20 +42,7 @@
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path2'>
-            C++ developer
-        </textPath>
-    </text>
-        <path id='path3'>
-                            <!-- Single line -->
-                                <animate id='d3' attributeName='d' begin='d2.end'
-                    dur='5000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
-                    </path>
-    <text font-family='"monospace", monospace' fill='#36BCF7' font-size='20'
-        dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path3'>
-            Starting security researcher
+            C/C++ developer
         </textPath>
     </text>
 </svg>
