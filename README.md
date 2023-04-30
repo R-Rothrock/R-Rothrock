@@ -6,14 +6,17 @@ class Me
   public:
     
     std::string name = "Roan Rothrock";
-    std::string gender = "male";
+    std::string pronouns = "he\him";
+
     unsigned int age = 13;
-    std::string education = "Sophomore";
+    std::string education = "Freshman";
   
-    unsigned int has_job = 0; // <-- I program C more than C++
+    bool employed = false;
+  
+    std:vector<std::string> languages = {"English", "Spanish"};
   
     std::vector<std::string> expert_in        = {"Python", "C", "Linux"};
-    std::vector<std::string> knowledgeable_in = {"C++", "Bash", "Git", "Flask", "Kali toolset", "Github", "SQLite"};
+    std::vector<std::string> knowledgeable_in = {"C++", "Bash", "Git", "Flask", "Github", "SQLite"};
     std::vector<std::string> learning         = {"Raspberry pi", "Bare-metal development"};
   
     std::string preferred_env = "Linux command line & GNU Nano";
@@ -25,7 +28,7 @@ class Me
   
   private:
   
-    std::vector<std::string> thoughts = {"Why are you so interested in my Github profile?",
+    std::vector<std::string> thoughts = {"Why are you so interested in my Github profile that you read this far down?",
                                          "\"; DROP TABLE accounts ;-- get wrecked idiot"};
 }
 ```
