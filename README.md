@@ -13,7 +13,7 @@ class Me
   
     bool employed = false;
   
-    std:vector<std::string> languages = {"English", "Spanish"};
+    std::vector<std::string> languages = {"English", "Spanish"};
   
     std::vector<std::string> expert_in        = {"Python", "C", "Linux"};
     std::vector<std::string> knowledgeable_in = {"C++", "Bash", "Git", "Flask", "Github", "SQLite"};
