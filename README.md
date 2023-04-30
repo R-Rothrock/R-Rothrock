@@ -1,50 +1,48 @@
 # Roan Rothrock
 
-![Typing SVG](https://github.com/R-Rothrock/R-Rothrock/blob/main/typing_animation.svg)
+```cpp
+class Me
+{
+  public:
+    
+    std::string name = "Roan Rothrock";
+    std::string pronouns = "he\him";
 
-Self-trained programmer out of middle Tennessee.
+    unsigned int age = 13;
+    std::string education = "Freshman";
+  
+    bool employed = false;
+  
+    std:vector<std::string> languages = {"English", "Spanish"};
+  
+    std::vector<std::string> expert_in        = {"Python", "C", "Linux"};
+    std::vector<std::string> knowledgeable_in = {"C++", "Bash", "Git", "Flask", "Github", "SQLite"};
+    std::vector<std::string> learning         = {"Raspberry pi", "Bare-metal development"};
+  
+    std::string preferred_env = "Linux command line & GNU Nano";
+    std::string kryptonite    = "Windows";
+  
+    std::vector<std::string>  certifications = {"PCAP Certified Associate in Python"};
+  
+    std::string email = "roan.rothrock@hotmail.com";
+  
+  private:
+  
+    std::vector<std::string> thoughts = {"Why are you so interested in my Github profile that you read this far down?",
+                                         "\"; DROP TABLE accounts ;-- get wrecked idiot"};
+}
+```
+---
 
-# About Me
-
-I enjoy using the command line to most interfaces (Bash, Zshell, but I'll use anything except maybe Windows DOS). I know Debian-based Linux the best,
-but I like Arch-based distros as well.
-
-I usually program _Python_ (I know it best) but I use _C++_ when _Python_ is
-unnecessary and I use shell scripts for automation projects every now and then.
-I also know a decent amount of _Sqlite_, but never use it. I'm
-currently a freshman in highschool.
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,c,linux,cpp,bash,git,flask,github,sqlite,raspberrypi">
+</a>
 
 ---
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width=40 height=40 />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian Linux" width=50 height=40 />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width=40 height=40 />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width=40 height=40 />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width=40 height=40 />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width=40 height=40 />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width=40 height=40 />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyer" width=40 height=40 />&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width=40 height=40/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="Sqlite" width=40 height=40/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width=40 height=40 />&nbsp;
-</div>
-
-<br>
-
-![Languages Used](https://github.com/R-Rothrock/R-Rothrock/blob/main/language_stats.svg)
-
-<br>
+<!-- ![Languages Used](https://github.com/R-Rothrock/R-Rothrock/blob/main/language_stats.svg) -->
 
 ![My Stats](https://github.com/R-Rothrock/R-Rothrock/blob/main/activity_stats.svg)
-
----
-
-## Contact
-
-- _roan.rothrock@hotmail.com_: Email
-- _[@R-Rothrock](https://github.com/R-Rothrock)_: GitHub 
-- _[@R-Rothrock](https://www.codecademy.com/profiles/R-Rothrock)_: Codecademy
 
 <!---
 R-Rothrock/R-Rothrock is a special repository because its
