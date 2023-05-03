@@ -6,8 +6,7 @@ class Me
   public:
     
     std::string name = "Roan Rothrock";
-    std::string pronouns = "he\him";
-
+    
     unsigned int age = 13;
     std::string education = "Freshman";
   
