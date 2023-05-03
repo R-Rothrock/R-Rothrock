@@ -40,7 +40,7 @@ class Me
 
 ---
 
-<!-- ![Languages Used](https://github.com/R-Rothrock/R-Rothrock/blob/main/language_stats.svg) -->
+![Languages Used](https://github.com/R-Rothrock/R-Rothrock/blob/main/language_stats.svg)
 
 ![My Stats](https://github.com/R-Rothrock/R-Rothrock/blob/main/activity_stats.svg)
 
