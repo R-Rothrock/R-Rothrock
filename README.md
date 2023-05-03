@@ -29,7 +29,7 @@ class Me
   
     std::vector<std::string> thoughts = {"Why are you so interested in my Github profile that you read this far down?",
                                          "\"; DROP TABLE accounts ;-- get wrecked idiot"};
-}
+};
 ```
 ---
 
