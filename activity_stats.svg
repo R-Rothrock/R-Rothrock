@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Roan Rothrock's GitHub Stats, Rank: A+</title>
+        <title id="titleId">Roan Rothrock's GitHub Stats, Rank: B</title>
         <desc id="descId">Total Stars Earned: 6, Total Commits in 2023 : 6, Total PRs: 2, Total Issues: 15, Contributed to (last year): 9</desc>
         <style>
           .header {
@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 124.79279427510441;
+        stroke-dashoffset: 205.46589239979275;
       }
     }
   
@@ -137,7 +137,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A+
+          B
         </text>
       
         </g>
@@ -171,7 +171,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >417</text>
+      >428</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
