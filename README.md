@@ -7,8 +7,8 @@ class Me
     
     std::string name = "Roan Rothrock";
     
-    unsigned int age = 13;
-    std::string education = "Freshman";
+    unsigned int age = 14;
+    std::string education = "Sophomore";
   
     bool employed = false;
   
