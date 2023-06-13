@@ -14,9 +14,9 @@ class Me
   
     std::vector<std::string> languages = {"English", "Spanish"};
   
-    std::vector<std::string> expert_in        = {"Python", "Linux"};
-    std::vector<std::string> knowledgeable_in = {"C", "C++", "Bash", "Git", "Flask", "Github", "SQLite"};
-    std::vector<std::string> learning         = {"Raspberry pi", "Bare-metal development"};
+    std::vector<std::string> expert_in        = {"Bash", "C", "Python", "Linux"};
+    std::vector<std::string> knowledgeable_in = {"C++", "Git", "Flask", "Github", "SQLite"};
+    std::vector<std::string> learning         = {"Assembly", "Malware analysis"};
   
     std::string preferred_env = "Linux command line & GNU Nano";
     std::string kryptonite    = "Windows";
