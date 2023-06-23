@@ -36,6 +36,12 @@
       font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
+    .rank-percentile-header {
+      font-size: 14px;
+    }
+    .rank-percentile-text {
+      font-size: 16px;
+    }
     
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
@@ -67,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 199.25284081222972;
+        stroke-dashoffset: 198.85539791160895;
       }
     }
   
@@ -171,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >286</text>
+      >293</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
