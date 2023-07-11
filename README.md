@@ -1,40 +1,36 @@
 # Roan Rothrock
 
 ```cpp
+using namespace std;
+
 class Me
 {
   public:
     
-    std::string name = "Roan Rothrock";
+    string name = "Roan Rothrock";
     
     unsigned int age = 14;
-    std::string education = "Sophomore";
+    string education = "Sophomore";
   
-    bool employed = false;
+    vector<string> skills = {"Linux", "C", "Python", "Git"};
+    vector<string> decent_at = {"C++", "Bash", "x64 Assembler", "Flask"};
+    vector<string> learning = {"aarch64 Assembler"};
+
+    vector<string> languages = {"English", "Spanish"};
   
-    std::vector<std::string> languages = {"English", "Spanish"};
+    vector<string>  certifications = {"PCAP Certified Associate in Python"};
   
-    std::vector<std::string> expert_in        = {"Bash", "C", "Python", "Linux"};
-    std::vector<std::string> knowledgeable_in = {"C++", "Git", "Flask", "Github", "SQLite"};
-    std::vector<std::string> learning         = {"Assembly", "Malware analysis"};
-  
-    std::string preferred_env = "Linux command line & GNU Nano";
-    std::string kryptonite    = "Windows";
-  
-    std::vector<std::string>  certifications = {"PCAP Certified Associate in Python"};
-  
-    std::string email = "roan.rothrock@hotmail.com";
+    string email = "roan.rothrock@hotmail.com";
   
   private:
-  
-    std::vector<std::string> thoughts = {"Why are you so interested in my Github profile that you read this far down?",
-                                         "\"; DROP TABLE accounts ;-- get wrecked idiot"};
-};
+
+sh: Segmentation fault: ./snippet.cpp
+$
 ```
 ---
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,c,linux,cpp,bash,git,flask,github,sqlite,raspberrypi">
+  <img src="https://skillicons.dev/icons?i=linux,c,python,git,cpp,bash,flask">
 </a>
 
 ---
