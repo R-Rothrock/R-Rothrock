@@ -1,31 +1,26 @@
 # Roan Rothrock
 
-```cpp
-using namespace std;
-
-class Me
+```c
+struct info me(void)
 {
-  public:
-    
-    string name = "Roan Rothrock";
-    
-    unsigned int age = 14;
-    string education = "Sophomore";
-  
-    vector<string> skills = {"Linux", "C", "Python", "Git"};
-    vector<string> decent_at = {"C++", "Bash", "x64 Assembler", "Flask"};
-    vector<string> learning = {"aarch64 Assembler"};
+  struct info ret;
 
-    vector<string> languages = {"English", "Spanish"};
-  
-    vector<string>  certifications = {"PCAP Certified Associate in Python"};
-  
-    string email = "roan.rothrock@hotmail.com";
-  
-  private:
+  ret.name = "Roan Rothrock";
+  ret.email = "roan.rothrock@hotmail.com";
 
-sh: Segmentation fault: ./snippet.cpp
-$
+  ret.skilled_at = {"Linux", "C", "Python", NULL};
+  ret.decent_at  = {"C++", "Bash", "NASM", NULL};
+
+  ret.bad_at = {"Windows", "Windows", "Windows", NULL};
+
+  ret.prefered_environ = "VT + Nano";
+
+  ret.certs = {"PCAP Certified Associate Python Programmer", NULL};
+
+  ret._thoughts = "This is a little to gimicky, isn't it? Fine, I'll stop.";
+
+  abort();
+}
 ```
 ---
 
@@ -36,8 +31,6 @@ $
 ---
 
 ![Languages Used](https://github.com/R-Rothrock/R-Rothrock/blob/main/language_stats.svg)
-
-![My Stats](https://github.com/R-Rothrock/R-Rothrock/blob/main/activity_stats.svg)
 
 <!---
 R-Rothrock/R-Rothrock is a special repository because its
