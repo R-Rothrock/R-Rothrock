@@ -1,7 +1,6 @@
 #!/bin/bash
 
 update_apis_github(){
-  git init
   git pull
 
   rm "language_stats.svg"
