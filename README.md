@@ -17,7 +17,7 @@ struct info me(void)
 
   ret.certs = {"PCAP Certified Associate Python Programmer", NULL};
 
-  ret._thoughts = "This is a little to gimicky, isn't it? Fine, I'll stop.";
+  ret._thoughts = "This is a little too gimicky, isn't it? Fine, I'll stop.";
 
   abort();
 }
