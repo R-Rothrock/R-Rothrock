@@ -9,9 +9,7 @@ struct info me(void)
   ret.email = "roan.rothrock@hotmail.com";
 
   ret.skilled_at = {"Linux", "C", "Python", NULL};
-  ret.decent_at  = {"C++", "Bash", "NASM", NULL};
-
-  ret.bad_at = {"Windows", "Windows", "Windows", NULL};
+  ret.decent_at  = {"C++", "Bash", "NASM", "Windows" NULL};
 
   ret.prefered_environ = "VT + Nano";
 
