@@ -1,24 +1,22 @@
 # Roan Rothrock
 
-```c
-struct info me(void)
+```c++
+class Me
 {
-  struct info ret;
+  public:
+    string name  = "Roan Rothrock";
+    string email = "roan.rothrock@hotmail.com";
 
-  ret.name = "Roan Rothrock";
-  ret.email = "roan.rothrock@hotmail.com";
-  
-  ret.years_exp = 3;
+    int years_exp = 3;
+    string education = "Sophomore";
 
-  ret.education = "sophomore";
+    vector<string> greatest_skills = {"Linux", "C", "Python"};
+    vector<string> decent_skills   = {"Assembly", "Git", "C++", "Windows"};
 
-  ret.skilled_at = {"Linux", "C", "Python", NULL};
-  ret.decent_at  = {"NASM", "Bash", "Git", "Windows", "C++", NULL};
+  private:
+    string _thoughts = "Why did you actually read this far down?";
 
-  ret.prefered_environ = "VT on Linux + GNU Nano";
-
-  return ret;
-}
+};
 ```
 ---
 
