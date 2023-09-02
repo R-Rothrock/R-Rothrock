@@ -7,13 +7,17 @@ struct info me(void)
 
   ret.name = "Roan Rothrock";
   ret.email = "roan.rothrock@hotmail.com";
+  
+  ret.years_exp = 3;
+
+  ret.education = "sophomore";
 
   ret.skilled_at = {"Linux", "C", "Python", NULL};
-  ret.decent_at  = {"NASM", "Bash", "Windows", "C++", NULL};
+  ret.decent_at  = {"NASM", "Bash", "Git", "Windows", "C++", NULL};
 
-  ret.prefered_environ = "VT + Nano";
+  ret.prefered_environ = "VT on Linux + GNU Nano";
 
-  ret.certs = {"PCAP Certified Associate Python Programmer", NULL};
+  return ret;
 }
 ```
 ---
