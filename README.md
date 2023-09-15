@@ -10,13 +10,13 @@ capable of. Feel free to contact me anytime for whatever reason
 
 **What I'm working on now:**
 
-- `cumin`: Windows shellcode that causes chaos and destruction
-- `diatom`: a framework for distributed computing on Linux
+- **[cumin](github.com/R-Rothrock/cumin)**: Windows shellcode that will cause chaos and destruction
+- **[diatom](github.com/R-Rothrock/oregano)**: a framework for distributed computing on Linux
 
 **What I'm interested in:**
 
 - Any low level code or functionality
-- (Almost) anything Linux
+- Just about anything Linux
 
 **My expertise lies in:**
 
@@ -32,7 +32,7 @@ capable of. Feel free to contact me anytime for whatever reason
 - Email: _[roan.rothrock@hotmail.com](roan.rothrock@hotmail.com)_
 - GitHub: _[R-Rothrock](https://github.com/R-Rothrock)_
 - Stack Overflow: _[R-Rothrock](https://stackoverflow.com/users/19124377/r-rothrock)_
-- I'm also on Discord and Linkedin but don't try to contact me there.
+- I also have a Linkedin account, but I'm locked out and haven't taken the time to contact support.
 
 <!---
 🎵 Never gonna give you up, never gonna let your down 🎵
