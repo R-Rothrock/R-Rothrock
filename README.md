@@ -11,7 +11,7 @@ capable of. Feel free to contact me anytime for whatever reason
 **What I'm working on now:**
 
 - **[cumin](https://github.com/R-Rothrock/cumin)**: Windows shellcode that will cause chaos and destruction
-- **[diatom](https://github.com/R-Rothrock/oregano)**: a framework for distributed computing on Linux
+- **[diatom](https://github.com/R-Rothrock/diatom)**: a framework for distributed computing on Linux
 
 **What I'm interested in:**
 
