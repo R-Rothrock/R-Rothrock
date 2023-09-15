@@ -10,8 +10,8 @@ capable of. Feel free to contact me anytime for whatever reason
 
 **What I'm working on now:**
 
-- **[cumin](github.com/R-Rothrock/cumin)**: Windows shellcode that will cause chaos and destruction
-- **[diatom](github.com/R-Rothrock/oregano)**: a framework for distributed computing on Linux
+- **[cumin](https://github.com/R-Rothrock/cumin)**: Windows shellcode that will cause chaos and destruction
+- **[diatom](https://github.com/R-Rothrock/oregano)**: a framework for distributed computing on Linux
 
 **What I'm interested in:**
 
