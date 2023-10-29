@@ -10,11 +10,10 @@ capable of. Feel free to contact me anytime for whatever reason
 
 **What I'm working on now:**
 
- - Nothing really.
-<!--
-- **[cumin](https://github.com/R-Rothrock/cumin)**: Windows shellcode that will cause chaos and destruction
-- **[diatom](https://github.com/R-Rothrock/diatom)**: a framework for distributed computing on Linux
-!-->
+
+- **[paprika](https://github.com/R-Rothrock/paprika)**: hide your malware in a Debian binary package
+- **[diatom](https://github.com/R-Rothrock/diatom)**: framework for distributed computing
+
 **What I'm interested in:**
 
 - Any low level code or functionality
@@ -23,11 +22,9 @@ capable of. Feel free to contact me anytime for whatever reason
 **My expertise lies in:**
 
 - C
-- Assembly
 - Python (though I'm a little rusty)
 - Linux
-- Windows
-- Playing the piano
+- Assembly
 
 **Contact info:**
 
