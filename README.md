@@ -1,18 +1,13 @@
 # Roan Rothrock
 
 I program C, Assembly, and Python usually on Linux (and ususally not
-cross-platform, either.) If you're curious what sorts of projects I
-have on GitHub, you ought to know most of my projects are unfinished
-piles of rubble. I have pinned the few that I'm proud of; feel free
-to take a look! I'm willing to collaborate on anything you think I'm
-capable of. Feel free to contact me anytime for whatever reason
-(especially typos of any sort.)
+cross-platform, either). Any projects of mine worth looking at are
+pinned; feel free to take a look!
 
 **What I'm working on now:**
 
-
 - **[paprika](https://github.com/R-Rothrock/paprika)**: hide your malware in a Debian binary package
-- **[diatom](https://github.com/R-Rothrock/diatom)**: framework for distributed computing
+- **[diatom](https://github.com/R-Rothrock/diatom)**: run a program in an emulating of another computer's environment.
 
 **What I'm interested in:**
 
