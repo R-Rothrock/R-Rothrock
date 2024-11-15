@@ -1,5 +1,10 @@
 # Roan Rothrock
 
+I AM ACTUALLY HERE NOW
+---
+
+https://github.com/IngenuineIntel
+
 ## Greatest Skills
 [![My Skills](https://skillicons.dev/icons?i=c,linux,python,arch,bash,git)](https://skillicons.dev)
 
